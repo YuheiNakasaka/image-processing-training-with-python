@@ -1,4 +1,6 @@
 # 傾いた顔を検出する
+# 参考) http://memo.sugyan.com/entry/20151203/1449137219
+#      http://qiita.com/bohemian916/items/5c6df004de723c567958
 
 import cv2
 import os
