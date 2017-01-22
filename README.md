@@ -1,6 +1,12 @@
 # Image Processing Training with Python
 
-Pythonで画像処理のコードを書いていくレポジトリ
+Pythonで画像処理(とか)のコードを書いていくレポジトリ
+
+# やっていくこと
+
+[やっていくこと.md](https://github.com/YuheiNakasaka/image-processing-training-with-python/blob/master/todo.md)
+
+- 随時追加していく
 
 # 環境
 
