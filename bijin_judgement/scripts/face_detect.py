@@ -20,6 +20,8 @@ face_cascade = cv2.CascadeClassifier('/Users/razokulover/.pyenv/versions/anacond
 hit = 0
 fail = 0
 for f in os.listdir(src_image_dir):
+    if hit > 5:
+        break
     src_path = os.path.join(src_image_dir, f)
     if os.path.isfile(src_path) and re.match(r".+\.(jpg|jpeg|png|gif)$", src_path):
         # 顔認識
